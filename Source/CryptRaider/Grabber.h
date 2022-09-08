@@ -39,8 +39,10 @@ UPROPERTY(EditAnywhere)
 float GrabRadius = 100;		
 
 UPROPERTY(EditAnywhere)
-float HoldDistance = 100;
+float HoldDistance = 200;
 
 UPhysicsHandleComponent* UGrabber::GetPhysicsHandle() const;
+
+bool GetGrabbableInReach(FHitResult& OutHitResult) const;
 
 };

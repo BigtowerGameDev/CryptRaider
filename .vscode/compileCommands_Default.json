@@ -83,5 +83,15 @@
 		"file": "C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\Source\\CryptRaider\\TP_WeaponComponent.h",
 		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.211.rsp",
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\Source\\CryptRaider\\TriggerComponent.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\Source\\CryptRaider\\TriggerComponent.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
 	}
 ]
