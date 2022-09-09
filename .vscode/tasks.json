@@ -9,7 +9,7 @@
 				"CryptRaider",
 				"Win64",
 				"Debug",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\Usuario\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -26,7 +26,7 @@
 				"CryptRaider",
 				"Win64",
 				"Debug",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\Usuario\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -46,7 +46,7 @@
 				"CryptRaider",
 				"Win64",
 				"Debug",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\Usuario\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -63,7 +63,7 @@
 				"CryptRaider",
 				"Win64",
 				"DebugGame",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\Usuario\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -80,7 +80,7 @@
 				"CryptRaider",
 				"Win64",
 				"DebugGame",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\Usuario\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -100,7 +100,7 @@
 				"CryptRaider",
 				"Win64",
 				"DebugGame",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\Usuario\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -117,7 +117,7 @@
 				"CryptRaider",
 				"Win64",
 				"Development",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\Usuario\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -134,7 +134,7 @@
 				"CryptRaider",
 				"Win64",
 				"Development",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\Usuario\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -154,7 +154,7 @@
 				"CryptRaider",
 				"Win64",
 				"Development",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\Usuario\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -171,7 +171,7 @@
 				"CryptRaider",
 				"Win64",
 				"Test",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\Usuario\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -188,7 +188,7 @@
 				"CryptRaider",
 				"Win64",
 				"Test",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\Usuario\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -208,7 +208,7 @@
 				"CryptRaider",
 				"Win64",
 				"Test",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\Usuario\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -225,7 +225,7 @@
 				"CryptRaider",
 				"Win64",
 				"Shipping",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\Usuario\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -242,7 +242,7 @@
 				"CryptRaider",
 				"Win64",
 				"Shipping",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\Usuario\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -262,277 +262,7 @@
 				"CryptRaider",
 				"Win64",
 				"Shipping",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
-			}
-		},
-		{
-			"label": "CryptRaider HoloLens Debug Build",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"CryptRaider",
-				"HoloLens",
-				"Debug",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
-			}
-		},
-		{
-			"label": "CryptRaider HoloLens Debug Rebuild",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"CryptRaider",
-				"HoloLens",
-				"Debug",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"dependsOn": [
-				"CryptRaider HoloLens Debug Clean"
-			],
-			"type": "shell",
-			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
-			}
-		},
-		{
-			"label": "CryptRaider HoloLens Debug Clean",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
-			"args": [
-				"CryptRaider",
-				"HoloLens",
-				"Debug",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
-			}
-		},
-		{
-			"label": "CryptRaider HoloLens DebugGame Build",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"CryptRaider",
-				"HoloLens",
-				"DebugGame",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
-			}
-		},
-		{
-			"label": "CryptRaider HoloLens DebugGame Rebuild",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"CryptRaider",
-				"HoloLens",
-				"DebugGame",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"dependsOn": [
-				"CryptRaider HoloLens DebugGame Clean"
-			],
-			"type": "shell",
-			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
-			}
-		},
-		{
-			"label": "CryptRaider HoloLens DebugGame Clean",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
-			"args": [
-				"CryptRaider",
-				"HoloLens",
-				"DebugGame",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
-			}
-		},
-		{
-			"label": "CryptRaider HoloLens Development Build",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"CryptRaider",
-				"HoloLens",
-				"Development",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
-			}
-		},
-		{
-			"label": "CryptRaider HoloLens Development Rebuild",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"CryptRaider",
-				"HoloLens",
-				"Development",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"dependsOn": [
-				"CryptRaider HoloLens Development Clean"
-			],
-			"type": "shell",
-			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
-			}
-		},
-		{
-			"label": "CryptRaider HoloLens Development Clean",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
-			"args": [
-				"CryptRaider",
-				"HoloLens",
-				"Development",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
-			}
-		},
-		{
-			"label": "CryptRaider HoloLens Test Build",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"CryptRaider",
-				"HoloLens",
-				"Test",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
-			}
-		},
-		{
-			"label": "CryptRaider HoloLens Test Rebuild",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"CryptRaider",
-				"HoloLens",
-				"Test",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"dependsOn": [
-				"CryptRaider HoloLens Test Clean"
-			],
-			"type": "shell",
-			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
-			}
-		},
-		{
-			"label": "CryptRaider HoloLens Test Clean",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
-			"args": [
-				"CryptRaider",
-				"HoloLens",
-				"Test",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
-			}
-		},
-		{
-			"label": "CryptRaider HoloLens Shipping Build",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"CryptRaider",
-				"HoloLens",
-				"Shipping",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
-			}
-		},
-		{
-			"label": "CryptRaider HoloLens Shipping Rebuild",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"CryptRaider",
-				"HoloLens",
-				"Shipping",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"dependsOn": [
-				"CryptRaider HoloLens Shipping Clean"
-			],
-			"type": "shell",
-			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
-			}
-		},
-		{
-			"label": "CryptRaider HoloLens Shipping Clean",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
-			"args": [
-				"CryptRaider",
-				"HoloLens",
-				"Shipping",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\Usuario\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -549,7 +279,7 @@
 				"CryptRaiderEditor",
 				"Win64",
 				"Debug",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\Usuario\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -566,7 +296,7 @@
 				"CryptRaiderEditor",
 				"Win64",
 				"Debug",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\Usuario\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -586,7 +316,7 @@
 				"CryptRaiderEditor",
 				"Win64",
 				"Debug",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\Usuario\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -603,7 +333,7 @@
 				"CryptRaiderEditor",
 				"Win64",
 				"DebugGame",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\Usuario\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -620,7 +350,7 @@
 				"CryptRaiderEditor",
 				"Win64",
 				"DebugGame",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\Usuario\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -640,7 +370,7 @@
 				"CryptRaiderEditor",
 				"Win64",
 				"DebugGame",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\Usuario\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -657,7 +387,7 @@
 				"CryptRaiderEditor",
 				"Win64",
 				"Development",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\Usuario\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -674,7 +404,7 @@
 				"CryptRaiderEditor",
 				"Win64",
 				"Development",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\Usuario\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -694,7 +424,7 @@
 				"CryptRaiderEditor",
 				"Win64",
 				"Development",
-				"C:\\Users\\Toni\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\Usuario\\Documents\\GitHub\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
